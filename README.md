@@ -4,4 +4,4 @@ further building a web application using streamlit and deploying it on Heroku.
 
 Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
-Web app Link - https://olympic-analysis-web.herokuapp.com/
+Website Link - https://olympic-analysis-web.herokuapp.com/
